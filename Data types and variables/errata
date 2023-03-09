@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  /*
+   << it's called a insertion operator
+   >> t's called a extraction operator
+   */
+    return 0;
+}
